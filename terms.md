@@ -32,6 +32,10 @@ If the _Order Form_ specifies support channels, _Developer_ only agrees to respo
 
 _Developer_ agrees to diagnose and resolve _Support Requests_ related to installing _Covered Versions_ of the _Software_, configuring standard features of _Covered Versions_ of the _Software_ per its documentation, and software errors encountered when using _Covered Versions_ of the _Software_.
 
+### <a id="Solo_Operation"></a>Solo Operation
+
+_Developer_ is a **Solo Operation** is, on the date of this agreement, _Developer_ is an individual or a company with just one technical person capable of responding to _Support Requests_.
+
 ### <a id="Technical_Support_Escalation"></a>Technical Support Escalation
 
 If _Developer_ is a company of more than one person, then _Developer_ agrees to promptly escalate _Support Requests_ that initially responding support personnel cannot resolve independently to a _Developer_ engineer responsible for the _Software_. Where appropriate, initially responding support personnel may connect _Customer Personnel_ to engineers directly.
