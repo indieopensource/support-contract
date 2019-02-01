@@ -2,7 +2,7 @@
 
 an open form contract for paid software support
 
-Download the most recent release from [GitHub](https://github.com/indieopensource/support-contract/releases).
+Download the most recent release from [GitHub](https://github.com/indieopensource/support-contract/releases), or read the [current development version of the terms in Markdown format](https://github.com/indieopensource/support-contract/blob/master/terms.md).
 
 This is a [flipped form](https://flippedform.com) in plain English.  If something doesn't make sense to you, that's the form's fault, not yours.  Please [open an issue so we can fix it](https://github.com/indieopensource/support-contract/issues/new).
 
