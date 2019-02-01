@@ -68,13 +68,11 @@ If _Developer_ is an individual or a company of one person, then _Developer_ wil
 
 1.  **Critical Support Requests** are _Support Requests_ that report that:
 
-    1.  _Customer_ cannot install the _Software_ by following the directions in its documentation.
+    1.  The _Software_ crashes or becomes unresponsive.
 
-    2.  The _Software_ crashes or becomes unresponsive.
+    2.  _Software_ errors prevent _Customer_ from using the _Software_.
 
-    3.  _Software_ errors prevent _Customer_ from using the _Software_.
-
-    4.  The _Software_ contains security vulnerabilities.
+    3.  The _Software_ contains security vulnerabilities.
 
 2.  All other _Support Requests_ are **Regular Support Requests**.
 
