@@ -54,15 +54,15 @@ If _Developer_ fails to meet [Meet or Exceed Service Levels](#Meet_or_Exceed_Ser
 
 #### <a id="Business_Hours"></a>Business Hours
 
-If the _Order Form_ specifies business hours, _Developer_ agrees to respond to _Support Requests_ during those hours. If the _Order Form_ does not specify business hours, _Developer_ agrees to respond to _Support Requests_ during regular business hours in the time zone of _Developer's Address_.
+If the _Order Form_ specifies business hours, _Developer_ agrees to respond to _Regular Support Requests_ only during those hours. If the _Order Form_ does not specify business hours, _Developer_ agrees to respond to _Regular Support Requests_ only during regular business hours in the time zone of _Developer's Address_.
 
 #### <a id="Holidays"></a>Holidays
 
-If the _Order Form_ specifies holidays, _Developer_ will not respond to _Support Requests_ on those holidays. If the _Order Form_ does not specify holidays, _Developer_ will not respond to _Support Requests_ on days when commercial banks in the city nearest _Developer's Address_ typically stay closed.
+If the _Order Form_ specifies holidays, _Developer_ will not respond to _Regular Support Requests_ on those holidays. If the _Order Form_ does not specify holidays, _Developer_ will not respond to _Regular Support Requests_ on days when commercial banks in the city nearest _Developer's Address_ typically stay closed.
 
 #### <a id="Vacation_and_Sick_Days"></a>Vacation and Sick Days
 
-If _Developer_ is an individual or a company of one person, then _Developer_ will not respond to _Support Requests_ on days _Developer_ takes off as vacation or sick days. _Developer_ agrees to give _Notice_ of sick days, and advance _Notice_ of vacation days. _Developer_ may take as many sick days and vacation days as _Customer_'s human resources policies allow full-time employees to take, or if _Customer_ does not have such a policy, a reasonable number of sick days and vacation days.
+If _Developer_ is an individual or a company of one person, then _Developer_ will not respond to any _Support Requests_ on days _Developer_ takes off as vacation or sick days. _Developer_ agrees to give _Notice_ of sick days, and advance _Notice_ of vacation days. _Developer_ may take as many sick days and vacation days as _Customer_'s human resources policies allow full-time employees to take, or if _Customer_ does not have such a policy, a reasonable number of sick days and vacation days.
 
 #### <a id="Support_Request_Severity"></a>Support Request Severity
 
