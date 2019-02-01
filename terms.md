@@ -38,11 +38,11 @@ _Developer_ is a **Solo Operation** is, on the date of this agreement, _Develope
 
 ### <a id="Technical_Support_Escalation"></a>Technical Support Escalation
 
-If _Developer_ is a company of more than one person, then _Developer_ agrees to promptly escalate _Support Requests_ that initially responding support personnel cannot resolve independently to a _Developer_ engineer responsible for the _Software_. Where appropriate, initially responding support personnel may connect _Customer Personnel_ to engineers directly.
+If _Developer_ is not a _Solo Operation_, then _Developer_ agrees to promptly escalate _Support Requests_ that initially responding support personnel cannot resolve independently to a _Developer_ engineer responsible for the _Software_. Where appropriate, initially responding support personnel may connect _Customer Personnel_ to engineers directly.
 
 ### <a id="Dedicated_Support_Personnel"></a>Dedicated Support Personnel
 
-If _Developer_ is a company of more than one person and the _Order Form_ specifies dedicated support personnel, then _Developer_ agrees to assign a limited number of specific support personnel to respond to _Customer_'s _Support Requests_, in order to maximize the chance that _Customer Personnel_ will receive support from personnel familiar with _Customer_'s use cases and past_Support Requests_.
+If _Developer_ is not a _Solo Operation_ and the _Order Form_ specifies dedicated support personnel, then _Developer_ agrees to assign a limited number of specific support personnel to respond to _Customer_'s _Support Requests_, in order to maximize the chance that _Customer Personnel_ will receive support from personnel familiar with _Customer_'s use cases and past_Support Requests_.
 
 ### <a id="Service-Level_Agreement"></a>Service-Level Agreement
 
@@ -66,7 +66,7 @@ If the _Order Form_ specifies holidays, _Developer_ will not respond to _Support
 
 #### <a id="Vacation_and_Sick_Days"></a>Vacation and Sick Days
 
-If _Developer_ is an individual or a company of one person, then _Developer_ will not respond to _Support Requests_ on days _Developer_ takes off as vacation or sick days. _Developer_ agrees to give _Notice_ of sick days, and advance _Notice_ of vacation days. _Developer_ may take as many sick days and vacation days as _Customer_'s human resources policies allow full-time employees to take, or if _Customer_ does not have such a policy, a reasonable number of sick days and vacation days.
+If _Developer_ is a _Solo Operation_, then _Developer_ will not respond to _Support Requests_ on days _Developer_ takes off as vacation or sick days. _Developer_ agrees to give _Notice_ of sick days, and advance _Notice_ of vacation days. _Developer_ may take as many sick days and vacation days as _Customer_'s human resources policies allow full-time employees to take, or if _Customer_ does not have such a policy, a reasonable number of sick days and vacation days.
 
 #### <a id="Support_Request_Severity"></a>Support Request Severity
 
