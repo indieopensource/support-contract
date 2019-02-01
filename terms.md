@@ -206,11 +206,11 @@ Each side may assign all its rights, licenses, and obligations under this agreem
 
 ### <a id="Lawsuits"></a>Lawsuits
 
-#### (No Heading)
+#### <a id="Lawsuit"></a>Lawsuit
 
 **Lawsuit** means a lawsuit brought by one side against the other, related to this agreement or the _Software_.
 
-#### (No Heading)
+#### <a id="Courts"></a>Courts
 
 **Developer's Local Courts** means the state and federal courts with jurisdiction at _Developer's Address_.
 
