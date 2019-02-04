@@ -136,10 +136,6 @@ Neither side will be liable for any failure or delay in meeting any obligation u
 
 Subject to [Damages Limit Exceptions](#Damages_Limit_Exceptions), neither side's total liability for breach of this agreement will exceed the amount _Customer_ paid _Developer_ under this agreement during the twelve months before the first claim is filed. This limit applies even if the side liable is advised that the other may suffer damages, and even if _Customer_ paid nothing at all.
 
-#### <a id="Damages_Exclusion"></a>Damages Exclusion
-
-Neither side will be liable for breach-of-contract damages they could not have reasonably foreseen when entering this agreement.
-
 #### <a id="Damages_Limit_Exceptions"></a>Damages Limit Exceptions
 
 [Limited Damages](#Limited_Damages) does not limit damages for breach of [Pay Fees](#Pay_Fees).
