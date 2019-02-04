@@ -50,7 +50,7 @@ Subject to [Business Hours](#Business_Hours), [Holidays](#Holidays), and [Vacati
 
 #### <a id="Refund_Prepaid_Fees"></a>Refund Prepaid Fees
 
-If _Developer_ fails to meet [Meet or Exceed Service Levels](#Meet_or_Exceed_Service_Levels) for three _Billing Periods_ in a row, and _Customer_ ends this agreement at the end of those _Billing Periods_, citing poor support responsiveness, _Developer_ agrees to refund any _Prepaid Fees_.
+If _Developer_ fails to meet [Meet or Exceed Service Levels](#Meet_or_Exceed_Service_Levels) for three months in a row, and _Customer_ ends this agreement at the end of those months, citing poor support responsiveness, _Developer_ agrees to refund any _Prepaid Fees_.
 
 #### <a id="Business_Hours"></a>Business Hours
 
@@ -84,7 +84,7 @@ If the _Order Form_ specifies a credit schedule:
 
 ##### <a id="Give_Credits"></a>Give Credits
 
-_Developer_ agrees to credit _Customer_'s account on _Notice_ and verification that _Developer_ failed to provide service according to [Meet or Exceed Service Levels](#Meet_or_Exceed_Service_Levels) in the current _Billing Period_ or any of the three prior _Billing Periods_, according to that credit schedule.
+_Developer_ agrees to credit _Customer_'s account on _Notice_ and verification that _Developer_ failed to provide service according to [Meet or Exceed Service Levels](#Meet_or_Exceed_Service_Levels) in the current month or any of the three prior months, according to that credit schedule.
 
 ##### <a id="Apply_Credits"></a>Apply Credits
 
@@ -232,16 +232,14 @@ Each side agrees to pay the other side's costs of bringing any successful _Lawsu
 
 ## <a id="Definitions"></a>Definitions
 
-1.  **Billing Period** means a successive, month-long period. The first _Billing Period_ starts on the date of this agreement. The plural is **Billing Periods**.
+1.  **Customer Personnel** means _Customer_'s employees and each _Customer_ subsidiary's employees, as well as independent contractors providing services to _Customer_.
 
-2.  **Customer Personnel** means _Customer_'s employees and each _Customer_ subsidiary's employees, as well as independent contractors providing services to _Customer_.
+2.  **Intellectual Property Right** means any patent, copyright, trademark, or trade secret right, or any other legal right typically referred to as an intellectual property right.
 
-3.  **Intellectual Property Right** means any patent, copyright, trademark, or trade secret right, or any other legal right typically referred to as an intellectual property right.
+3.  **Notice** means a written communication from one side to the other per [Notice Process](#Notice_Process).
 
-4.  **Notice** means a written communication from one side to the other per [Notice Process](#Notice_Process).
+4.  **Permission** means prior _Notice_ of consent.
 
-5.  **Permission** means prior _Notice_ of consent.
+5.  **Prepaid Fees** means fees _Customer_ prepaid under this agreement for time remaining in the term of this agreement.
 
-6.  **Prepaid Fees** means fees _Customer_ prepaid under this agreement for time remaining in the term of this agreement.
-
-7.  **Developer's Address** means the address that _Developer_ gives along with its signature to the _Order Form_.
+6.  **Developer's Address** means the address that _Developer_ gives along with its signature to the _Order Form_.

@@ -32,7 +32,7 @@
 
             \Meet or Exceed Service Levels\  Subject to {Business Hours}, {Holidays}, and {Vacation and Sick Days} <Developer> agrees to meet or exceed the service levels specified on the <Order Form>.
 
-            \Refund Prepaid Fees\  If <Developer> fails to meet {Meet or Exceed Service Levels} for three <Billing Periods> in a row, and <Customer> ends this agreement at the end of those <Billing Periods>, citing poor support responsiveness, <Developer> agrees to refund any <Prepaid Fees>.
+            \Refund Prepaid Fees\  If <Developer> fails to meet {Meet or Exceed Service Levels} for three months in a row, and <Customer> ends this agreement at the end of those months, citing poor support responsiveness, <Developer> agrees to refund any <Prepaid Fees>.
 
             \Business Hours\  If the <Order Form> specifies business hours, <Developer> agrees to respond to <Support Requests> during those hours.  If the <Order Form> does not specify business hours, <Developer> agrees to respond to <Support Requests> during regular business hours in the time zone of <Developer's Address>.
 
@@ -56,7 +56,7 @@
 
             \Credits\  If the <Order Form> specifies a credit schedule:
 
-                \Give Credits\  <Developer> agrees to credit <Customer>'s account on <Notice> and verification that <Developer> failed to provide service according to {Meet or Exceed Service Levels} in the current <Billing Period> or any of the three prior <Billing Periods>, according to that credit schedule.
+                \Give Credits\  <Developer> agrees to credit <Customer>'s account on <Notice> and verification that <Developer> failed to provide service according to {Meet or Exceed Service Levels} in the current month or any of the three prior months, according to that credit schedule.
 
                 \Apply Credits\  <Developer> agrees to apply credits under {Give Credits} against <Customer>'s obligations to pay fees under this agreement as soon as possible.  <Developer> does not agree to refund any credits.
 
@@ -149,8 +149,6 @@
             \Loser Pays\  Each side agrees to pay the other side's costs of bringing any successful <Lawsuit> or collecting payment owed under this agreement.
 
     \Definitions\
-
-        \\  ""Billing Period"" means a successive, month-long period.  The first <Billing Period> starts on the date of this agreement.  The plural is ""Billing Periods"".
 
         \\  ""Customer Personnel"" means <Customer>'s employees and each <Customer> subsidiary's employees, as well as independent contractors providing services to <Customer>.
 
