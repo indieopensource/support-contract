@@ -90,6 +90,10 @@ _Developer_ agrees to credit _Customer_'s account on _Notice_ and verification t
 
 _Developer_ agrees to apply credits under [Give Credits](#Give_Credits) against _Customer_'s obligations to pay fees under this agreement as soon as possible. _Developer_ does not agree to refund any credits.
 
+### <a id="Refund_Prepaid_Fees_if_License_Ends"></a>Refund Prepaid Fees if License Ends
+
+_Developer_ agrees to refund any _Prepaid Fees_ if this agreement ends under [Termination with License Agreement](#Termination_with_License_Agreement).
+
 ## <a id="Customer's_Obligations"></a>Customer's Obligations
 
 ### <a id="Pay_Fees"></a>Pay Fees
@@ -152,7 +156,7 @@ If the _Order Form_ specifies automatic renewal, then this agreement will renew 
 
 ### <a id="Termination_with_License_Agreement"></a>Termination with License Agreement
 
-If _Customer_ licenses the _Software_ from _Developer_, and _Customer_'s rights to use the _Software_ terminate during the term of this agreement, then this agreement terminates with it, and _Developer_ agrees to refund any _Prepaid Fees_.
+If _Customer_ licenses the _Software_ from _Developer_, and _Customer_'s rights to use the _Software_ terminate during the term of this agreement, then this agreement terminates with it.
 
 ## <a id="Changes"></a>Changes
 

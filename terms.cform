@@ -60,6 +60,8 @@
 
                 \Apply Credits\  <Developer> agrees to apply credits under {Give Credits} against <Customer>'s obligations to pay fees under this agreement as soon as possible.  <Developer> does not agree to refund any credits.
 
+        \Refund Prepaid Fees if License Ends\  <Developer> agrees to refund any <Prepaid Fees> if this agreement ends under {Termination with License Agreement}.
+
     \Customer's Obligations\
 
         \Pay Fees\  <Customer> agrees to pay the license fees specified on the <Order Form>.  <Customer> agrees to pay using the method specified on the <Order Form>.  <Customer> agrees to pay all tax on fees under this agreement, except tax <Developer> owes on income.
@@ -100,7 +102,7 @@
 
         \Renewal\  If the <Order Form> specifies automatic renewal, then this agreement will renew automatically for additional periods, each as long as the initial term.
 
-        \Termination with License Agreement\  If <Customer> licenses the <Software> from <Developer>, and <Customer>'s rights to use the <Software> terminate during the term of this agreement, then this agreement terminates with it, and <Developer> agrees to refund any <Prepaid Fees>.
+        \Termination with License Agreement\  If <Customer> licenses the <Software> from <Developer>, and <Customer>'s rights to use the <Software> terminate during the term of this agreement, then this agreement terminates with it.
 
     \Changes\
 
