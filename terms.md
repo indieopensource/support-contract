@@ -144,7 +144,7 @@ Subject to [Damages Limit Exceptions](#Damages_Limit_Exceptions), neither side's
 
 ### <a id="Initial_Term"></a>Initial Term
 
-This agreement will continue for the initial term specified on the _Order Form_.
+This agreement will continue for the initial term specified on the _Order Form_. If the _Order_ does not specify an initial term, this agreement will continue for one year.
 
 ### <a id="Renewal"></a>Renewal
 
