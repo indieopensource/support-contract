@@ -110,7 +110,7 @@ _Customer_ agrees to provide _Developer_ support personnel the information they 
 
 ## <a id="Intellectual_Property"></a>Intellectual Property
 
-This agreement does not license or assign any _Intellectual Property Right_.
+This agreement does not license or assign any intellectual property right.
 
 ## <a id="Liability"></a>Liability
 
@@ -234,12 +234,10 @@ Each side agrees to pay the other side's costs of bringing any successful _Lawsu
 
 1.  **Customer Personnel** means _Customer_'s employees and each _Customer_ subsidiary's employees, as well as independent contractors providing services to _Customer_.
 
-2.  **Intellectual Property Right** means any patent, copyright, trademark, or trade secret right, or any other legal right typically referred to as an intellectual property right.
+2.  **Notice** means a written communication from one side to the other per [Notice Process](#Notice_Process).
 
-3.  **Notice** means a written communication from one side to the other per [Notice Process](#Notice_Process).
+3.  **Permission** means prior _Notice_ of consent.
 
-4.  **Permission** means prior _Notice_ of consent.
+4.  **Prepaid Fees** means fees _Customer_ prepaid under this agreement for time remaining in the term of this agreement.
 
-5.  **Prepaid Fees** means fees _Customer_ prepaid under this agreement for time remaining in the term of this agreement.
-
-6.  **Developer's Address** means the address that _Developer_ gives along with its signature to the _Order Form_.
+5.  **Developer's Address** means the address that _Developer_ gives along with its signature to the _Order Form_.
