@@ -92,7 +92,7 @@ _Developer_ agrees to apply credits under [Give Credits](#Give_Credits) against 
 
 ### <a id="Refund_Prepaid_Fees_if_License_Ends"></a>Refund Prepaid Fees if License Ends
 
-_Developer_ agrees to refund any _Prepaid Fees_ if this agreement ends under [Termination with License Agreement](#Termination_with_License_Agreement).
+_Developer_ agrees to refund any _Prepaid Fees_ if this agreement ends under [Ends with License Agreement](#Ends_with_License_Agreement).
 
 ## <a id="Customer's_Obligations"></a>Customer's Obligations
 
@@ -154,9 +154,9 @@ This agreement will continue for the initial term specified on the _Order Form_.
 
 If the _Order Form_ specifies automatic renewal, then this agreement will renew automatically for additional periods, each as long as the initial term.
 
-### <a id="Termination_with_License_Agreement"></a>Termination with License Agreement
+### <a id="Ends_with_License_Agreement"></a>Ends with License Agreement
 
-If _Customer_ licenses the _Software_ from _Developer_, and _Customer_'s rights to use the _Software_ terminate during the term of this agreement, then this agreement terminates with it.
+If _Customer_ licenses the _Software_ from _Developer_, and _Customer_'s rights to use the _Software_ end during the term of this agreement, then this agreement ends with them.
 
 ## <a id="Changes"></a>Changes
 
