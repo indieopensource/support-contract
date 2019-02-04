@@ -2,7 +2,7 @@
 
 ## <a id="Order_Form"></a>Order Form
 
-These terms, together with the **Order Form** referencing them, make up a software support agreement. The terms **Developer** and **Customer** are defined on the _Order Form_.
+These terms, together with the **Order Form** referencing them, make up a software support agreement. **Developer** and **Customer** are identified on the _Order Form_.
 
 ## <a id="Scope"></a>Scope
 
