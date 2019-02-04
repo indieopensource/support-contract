@@ -24,11 +24,9 @@
 
         \Diagnosis and Resolution\  <Developer> agrees to diagnose and resolve <Support Requests> related to installing <Covered Versions> of the <Software>, configuring standard features of <Covered Versions> of the <Software> per its documentation, and software errors encountered when using <Covered Versions> of the <Software>.
 
-        \Solo Operation\  <Developer> is a ""Solo Operation"" is, on the date of this agreement, <Developer> is an individual or a company with just one technical person capable of responding to <Support Requests>.
+        \Technical Support Escalation\  If the <Order Form> does not identify <Developer> as a solo operation, then <Developer> agrees to promptly escalate <Support Requests> that initially responding support personnel cannot resolve independently to a <Developer> engineer responsible for the <Software>.  Where appropriate, initially responding support personnel may connect <Customer Personnel> to engineers directly.
 
-        \Technical Support Escalation\  If <Developer> is not a <Solo Operation>, then <Developer> agrees to promptly escalate <Support Requests> that initially responding support personnel cannot resolve independently to a <Developer> engineer responsible for the <Software>.  Where appropriate, initially responding support personnel may connect <Customer Personnel> to engineers directly.
-
-        \Dedicated Support Personnel\  If <Developer> is not a <Solo Operation> and the <Order Form> specifies dedicated support personnel, then <Developer> agrees to assign a limited number of specific support personnel to respond to <Customer>'s <Support Requests>, in order to maximize the chance that <Customer Personnel> will receive support from personnel familiar with <Customer>'s use cases and past<Support Requests>.
+        \Dedicated Support Personnel\  If the <Order Form> does not identify <Developer> as a solo operation and specifies dedicated support personnel, then <Developer> agrees to assign a limited number of specific support personnel to respond to <Customer>'s <Support Requests>, in order to maximize the chance that <Customer Personnel> will receive support from personnel familiar with <Customer>'s use cases and past<Support Requests>.
 
         \Service-Level Agreement\  If the <Order Form> specifies a service-level agreement:
 
@@ -40,7 +38,7 @@
 
             \Holidays\  If the <Order Form> specifies holidays, <Developer> will not respond to <Support Requests> on those holidays.  If the <Order Form> does not specify holidays, <Developer> will not respond to <Support Requests> on days when commercial banks in the city nearest <Developer's Address> typically stay closed.
 
-            \Vacation and Sick Days\  If <Developer> is a <Solo Operation>, then <Developer> will not respond to <Support Requests> on days <Developer> takes off as vacation or sick days.  <Developer> agrees to give <Notice> of sick days, and advance <Notice> of vacation days.  <Developer> may take as many sick days and vacation days as <Customer>'s human resources policies allow full-time employees to take, or if <Customer> does not have such a policy, a reasonable number of sick days and vacation days.
+            \Vacation and Sick Days\  If the <Order Form> identifies <Developer> as a solo operation, then <Developer> will not respond to <Support Requests> on days <Developer> takes off as vacation or sick days.  <Developer> agrees to give <Notice> of sick days, and advance <Notice> of vacation days.  <Developer> may take as many sick days and vacation days as <Customer>'s human resources policies allow full-time employees to take, or if <Customer> does not have such a policy, a reasonable number of sick days and vacation days.
 
             \Support Request Severity\
 
