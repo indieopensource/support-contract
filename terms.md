@@ -28,6 +28,10 @@ _Developer_ agrees to respond to **Support Requests** from _Customer Personnel_ 
 
 If the _Order Form_ specifies support channels, _Developer_ only agrees to respond to _Support Requests_ sent via those channels. If the _Order Form_ does not specify support channels, _Developer_ only agrees to respond to _Support Requests_ via e-mail, and to give _Notice_ of an e-mail address for _Support Requests_ on entering into this agreement.
 
+### <a id="Supported_Systems"></a>Supported Systems
+
+_Developer_ only agrees to respond to _Support Requests_ for installations of the _Software_ on supported operating systems, as identified in its documentation.
+
 ### <a id="Diagnosis_and_Resolution"></a>Diagnosis and Resolution
 
 _Developer_ agrees to diagnose and resolve _Support Requests_ related to installing _Covered Versions_ of the _Software_, configuring standard features of _Covered Versions_ of the _Software_ per its documentation, and software errors encountered when using _Covered Versions_ of the _Software_.
