@@ -10,9 +10,7 @@
 
             \\  If the <Order Form> specifies a version range, such as "1.y.z", then <Covered Versions> include the latest <Generally Available> version in that range on the date of this agreement, as well as any new versions within that range that <Developer> makes <Generally Available> during the term of this agreement.
 
-            \\  If the <Order Form> does not specify a particular version or version range, then <Covered Versions> include the latest <Generally Available> version on the date of this agreement, as well as any new versions that <Developer> makes <Generally Available> during the term of this agreement.
-
-            A version of the <Software> is ""Generally Available"" if <Developer> offers it to the public for use in production systems.  Versions that <Developer> designates with labels like "Alpha", "Beta", "Preview", "Testing", and "Preview" are not <Generally Available>.
+            \\  If the <Order Form> does not specify a particular version or version range, then <Covered Versions> include the latest <Generally Available> version on the date of this agreement, as well as any new versions that <Developer> makes <Generally Available> during the term of this agreement.  A version of the <Software> is ""Generally Available"" if <Developer> offers it to the public for use in production systems.  Versions that <Developer> designates with labels like "Alpha", "Beta", "Preview", "Testing", and "Preview" are not <Generally Available>.
 
         \\  ""Service Limits"" means any limits on use of <Developer>'s support services specified on the <Order Form>, such as the number of <Customer Personnel> who may contact <Developer> for support, or the maximum number of <Support Requests> <Developer> will respond to per month.
 
@@ -26,7 +24,7 @@
 
         \Technical Support Escalation\  If <Developer> is a company of more than one person, then <Developer> agrees to promptly escalate <Support Requests> that initially responding support personnel cannot resolve independently to a <Developer> engineer responsible for the <Software>.  Where appropriate, initially responding support personnel may connect <Customer Personnel> to engineers directly.
 
-        \Dedicated Support Personnel\  If <Developer> is a company of more than one person and the <Order Form> specifies dedicated support personnel, then <Developer> agrees to assign a limited number of specific support personnel to respond to <Customer>'s <Support Requests>, in order to maximize the chance that <Customer Personnel> will receive support from personnel familiar with <Customer>'s use cases and past<Support Requests>.
+        \Dedicated Support Personnel\  If <Developer> is a company of more than one person and the <Order Form> specifies dedicated support personnel, then <Developer> agrees to assign a limited number of specific support personnel to respond to <Customer>'s <Support Requests>, in order to maximize the chance that <Customer Personnel> will receive support from personnel familiar with <Customer>'s use cases and past <Support Requests>.
 
         \Service-Level Agreement\  If the <Order Form> specifies a service-level agreement:
 
