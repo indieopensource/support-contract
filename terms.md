@@ -14,7 +14,7 @@ These terms, together with the **Order Form** referencing them, make up a softwa
 
     2.  If the _Order Form_ specifies a version range, such as "1.y.z", then _Covered Versions_ include the latest _Generally Available_ version in that range on the date of this agreement, as well as any new versions within that range that _Developer_ makes _Generally Available_ during the term of this agreement.
 
-    3.  If the _Order Form_ does not specify a particular version or version range, then _Covered Versions_ include the latest _Generally Available_ version on the date of this agreement, as well as any new versions that _Developer_ makes _Generally Available_ during the term of this agreement.A version of the _Software_ is **Generally Available** if _Developer_ offers it to the public for use in production systems. Versions that _Developer_ designates with labels like "Alpha", "Beta", "Preview", "Testing", and "Preview" are not _Generally Available_.
+    3.  If the _Order Form_ does not specify a particular version or version range, then _Covered Versions_ include the latest _Generally Available_ version on the date of this agreement, as well as any new versions that _Developer_ makes _Generally Available_ during the term of this agreement. A version of the _Software_ is **Generally Available** if _Developer_ offers it to the public for use in production systems. Versions that _Developer_ designates with labels like "Alpha", "Beta", "Preview", "Testing", and "Preview" are not _Generally Available_.
 
 3.  **Service Limits** means any limits on use of _Developer_'s support services specified on the _Order Form_, such as the number of _Customer Personnel_ who may contact _Developer_ for support, or the maximum number of _Support Requests_ _Developer_ will respond to per month.
 
@@ -38,7 +38,7 @@ If _Developer_ is a company of more than one person, then _Developer_ agrees to 
 
 ### <a id="Dedicated_Support_Personnel"></a>Dedicated Support Personnel
 
-If _Developer_ is a company of more than one person and the _Order Form_ specifies dedicated support personnel, then _Developer_ agrees to assign a limited number of specific support personnel to respond to _Customer_'s _Support Requests_, in order to maximize the chance that _Customer Personnel_ will receive support from personnel familiar with _Customer_'s use cases and past_Support Requests_.
+If _Developer_ is a company of more than one person and the _Order Form_ specifies dedicated support personnel, then _Developer_ agrees to assign a limited number of specific support personnel to respond to _Customer_'s _Support Requests_, in order to maximize the chance that _Customer Personnel_ will receive support from personnel familiar with _Customer_'s use cases and past _Support Requests_.
 
 ### <a id="Service-Level_Agreement"></a>Service-Level Agreement
 
