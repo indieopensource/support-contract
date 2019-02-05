@@ -68,6 +68,8 @@ If _Developer_ is an individual or a company of one person, then _Developer_ wil
 
 #### <a id="Support_Request_Severity"></a>Support Request Severity
 
+Unless the _Order Form_ defines different terms for the severity of _Support Requests_:
+
 1.  **Critical Support Requests** are _Support Requests_ that report that:
 
     1.  _Customer_ cannot install the _Software_ by following the directions in its documentation.
