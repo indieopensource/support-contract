@@ -1,0 +1,18 @@
+{
+  "Software Name": "Example Software",
+  "Versions": "1.x.y",
+  "Service Limits": "up to ten people authorized to contact support at any given time",
+  "Chanels": "support@example.com and support.example.com",
+  "Dedicated": "No",
+  "SLA": "",
+  "Credit Schedule": "",
+  "Business Hours": "",
+  "Holidays": "",
+  "Severity Levels": "",
+  "License Fees": "$1,000 per month",
+  "Billing": "monthly, in advance",
+  "Flexible Pricing": "$100 per additional person authorized to contact support per month, up to a total of 20",
+  "Payment Method": "ACH",
+  "Initial Term": "one year",
+  "Automatic Renewal": "annually, unless either side gives notice at least 60 calendar days before it would otherwise renew"
+}
