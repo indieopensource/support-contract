@@ -34,11 +34,11 @@
 
             \Refund Prepaid Fees\  If <Developer> fails to meet {Meet or Exceed Service Levels} for three months in a row, and <Customer> ends this agreement at the end of those months, citing poor support responsiveness, <Developer> agrees to refund any <Prepaid Fees>.
 
-            \Business Hours\  If the <Order Form> specifies business hours, <Developer> agrees to respond to <Support Requests> during those hours.  If the <Order Form> does not specify business hours, <Developer> agrees to respond to <Support Requests> during regular business hours in the time zone of <Developer's Address>.
+            \Business Hours\  If the <Order Form> specifies business hours, <Developer> agrees to respond to <Regular Support Requests> only during those hours.  If the <Order Form> does not specify business hours, <Developer> agrees to respond to <Regular Support Requests> only during regular business hours in the time zone of <Developer's Address>.
 
-            \Holidays\  If the <Order Form> specifies holidays, <Developer> will not respond to <Support Requests> on those holidays.  If the <Order Form> does not specify holidays, <Developer> will not respond to <Support Requests> on days when commercial banks in the city nearest <Developer's Address> typically stay closed.
+            \Holidays\  If the <Order Form> specifies holidays, <Developer> will not respond to <Regular Support Requests> on those holidays.  If the <Order Form> does not specify holidays, <Developer> will not respond to <Regular Support Requests> on days when commercial banks in the city nearest <Developer's Address> typically stay closed.
 
-            \Vacation and Sick Days\  If <Developer> is an individual or a company of one person, then <Developer> will not respond to <Support Requests> on days <Developer> takes off as vacation or sick days.  <Developer> agrees to give <Notice> of sick days, and advance <Notice> of vacation days.  <Developer> may take as many sick days and vacation days as <Customer>'s human resources policies allow full-time employees to take, or if <Customer> does not have such a policy, a reasonable number of sick days and vacation days.
+            \Vacation and Sick Days\  If <Developer> is an individual or a company of one person, then <Developer> will not respond to any <Support Requests> on days <Developer> takes off as vacation or sick days.  <Developer> agrees to give <Notice> of sick days, and advance <Notice> of vacation days.  <Developer> may take as many sick days and vacation days as <Customer>'s human resources policies allow full-time employees to take, or if <Customer> does not have such a policy, a reasonable number of sick days and vacation days.
 
             \Support Request Severity\  Unless the <Order Form> defines different terms for the severity of <Support Requests>:
 
