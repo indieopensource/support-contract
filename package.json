@@ -1,24 +1,11 @@
 {
   "private": true,
   "devDependencies": {
-    "commonform-cli": "^0.31.0",
-    "husky": "^1.3.1",
-    "npm-run-all": "^4.1.5"
-  },
-  "husky": {
-    "hooks": {
-      "pre-commit": "run-p build:*:markdown && git add terms.md order-form.md"
-    }
-  },
-  "scripts": {
-    "test": "commonform lint terms.cform",
-    "build": "run-p build:*:*",
-    "build:terms:markdown": "commonform render -f markdown --title 'Software Support Terms' terms.cform > terms.md",
-    "build:terms:html": "commonform render -f html5 --title 'Software Support Terms' --ordered-lists terms.cform > terms.html",
-    "build:terms:docx": "commonform render -f docx --title 'Software Support Terms' --number outline --left-align-title --indent-margins --styles styles.json terms.cform > terms.docx",
-    "build:orderform:markdown": "commonform render -f markdown --title 'Software Support Order Form' order-form.cform > order-form.md",
-    "build:orderform:html": "commonform render -f html5 --title 'Software Support Order Form' --ordered-lists order-form.cform > order-form.html",
-    "build:orderform:docx": "commonform render -f docx --title 'Software Support Order Form' --number outline --left-align-title --indent-margins --styles styles.json --signatures signatures.json order-form.cform > order-form.docx",
-    "build:example:docx": "commonform render -f docx --title 'Software Support Order Form' --number outline --left-align-title --indent-margins --styles styles.json --signatures signatures.json --blanks example-order-form.json --blank-text 'according to the Software Support Terms' order-form.cform > example-order-form.docx"
+    "commonform-commonmark": "^5.2.0",
+    "commonform-critique": "^1.0.3",
+    "commonform-docx": "^5.0.3",
+    "commonform-html": "^3.2.0",
+    "commonform-lint": "^3.0.2",
+    "json": "^9.0.6"
   }
 }

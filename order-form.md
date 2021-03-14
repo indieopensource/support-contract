@@ -1,35 +1,45 @@
-# Software Support Order Form
+---
+title: IndieOpenSource.com Software Support Order Form
+edition: Development Draft
+signatures:
+  - header: The parties are signing this order form on the dates by their signatures.
+    term: Developer
+    information: [date, email, address]
+  - header: The parties are signing this order form on the dates by their signatures.
+    term: Customer
+    information: [date, email, address]
+---
 
 This is an order form for software support under the terms of IndieOpenSource.com's Software Support Terms.
 
-1.  Software: \[•\]
+- Software:  `Software Name`
 
-2.  Versions: \[•\]
+- Versions:  `Versions`
 
-3.  Service Limits: \[•\]
+- Service Limits:  `Service Limits`
 
-4.  Support Channels: \[•\]
+- Support Channels:  `Channels`
 
-5.  Dedicated Support Personnel: \[•\]
+- Dedicated Support Personnel:  `Dedicated`
 
-6.  Service-Level Agreement: \[•\]
+- Service-Level Agreement:  `SLA`
 
-7.  Credit Schedule: \[•\]
+- Credit Schedule:  `Credit Schedule`
 
-8.  Business Hours: \[•\]
+- Business Hours:  `Business Hours`
 
-9.  Holidays: \[•\]
+- Holidays:  `Holidays`
 
-10.  Severity Levels: \[•\]
+- Severity Levels:  `Severity Levels`
 
-11.  License Fees: \[•\]
+- License Fees:  `License Fees`
 
-12.  Flexible Pricing: \[•\]
+- Flexible Pricing:  `Flexible Pricing`
 
-13.  Billing: \[•\]
+- Billing:  `Billing`
 
-14.  Payment Method: \[•\]
+- Payment Method:  `Payment Method`
 
-15.  Initial Term: \[•\]
+- Initial Term:  `Initial Term`
 
-16.  Automatic Renewal: \[•\]
+- Automatic Renewal: `Automatic Renewal`
