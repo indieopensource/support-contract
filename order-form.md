@@ -14,27 +14,27 @@ This is an order form for software support under the terms of IndieOpenSource.co
 
 - Software:  `Software Name`
 
-- Versions:  `Versions`
+- Versions:  `Versions` <!-- Optional, Default: Latest Generally Available -->
 
-- Service Limits:  `Service Limits`
+- Service Limits:  `Service Limits` <!-- Optional -->
 
-- Support Channels:  `Channels`
+- Support Channels:  `Channels` <!-- Default: E-Mail -->
 
-- Dedicated Support Personnel:  `Dedicated`
+- Dedicated Support Personnel:  `Dedicated` <!-- Default: No -->
 
-- Service-Level Agreement:  `SLA`
+- Service-Level Agreement:  `SLA` <!-- Optional, Default: None -->
 
-- Credit Schedule:  `Credit Schedule`
+- Credit Schedule:  `Credit Schedule` <!-- Optional, Default: None -->
 
-- Business Hours:  `Business Hours`
+- Business Hours:  `Business Hours` <!-- Optional, Default: Time zone of Developer's address -->
 
-- Holidays:  `Holidays`
+- Holidays:  `Holidays` <!-- Optional, Default: When banks stay closed in city nearest Developer's address -->
 
-- Severity Levels:  `Severity Levels`
+- Severity Levels:  `Severity Levels` <!-- Optional, Default: "Critical Support Requests" and "Regular Support Requests" as defined in terms -->
 
 - License Fees:  `License Fees`
 
-- Flexible Pricing:  `Flexible Pricing`
+- Flexible Pricing:  `Flexible Pricing` <!-- Optional, Default: None -->
 
 - Billing:  `Billing`
 
@@ -42,4 +42,4 @@ This is an order form for software support under the terms of IndieOpenSource.co
 
 - Initial Term:  `Initial Term`
 
-- Automatic Renewal: `Automatic Renewal`
+- Automatic Renewal: `Automatic Renewal` <!-- Optional, Default: None -->
